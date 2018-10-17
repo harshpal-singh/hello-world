@@ -1,3 +1,3 @@
 # hello-world
 Walkthrough of Github
-Testing again !!!
+This file is to help me understand the basics of Github.
